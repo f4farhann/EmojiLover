@@ -8,7 +8,7 @@
 import SwiftUI
 
 enum Emoji: String, CaseIterable {
-    case 😀, 😇, 🥰, 😩
+    case 😀, 😇, 🥰, 😩, 😭
 }
 struct ContentView: View {
     
