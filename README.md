@@ -13,11 +13,7 @@ Swift<br>
 SwiftUI<br>
 
 ## Screenshots
-![Untitled](https://github.com/user-attachments/assets/7e574023-44e0-48d3-a4fa-d1148f4e51f2)
-
-## Screenshots
-<img src="https://github.com/user-attachments/assets/7e574023-44e0-48d3-a4fa-d1148f4e51f2" alt="EmojiLover Screenshot" width="300"/>
-
+<img src="https://github.com/user-attachments/assets/7e574023-44e0-48d3-a4fa-d1148f4e51f2" alt="EmojiLover Screenshot" width="200"/>
 
 ## Getting Started
 ### Prerequisites<br>
