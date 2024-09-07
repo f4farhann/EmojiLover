@@ -1,4 +1,4 @@
-![Untitled](https://github.com/user-attachments/assets/4e502d8f-703f-479e-871e-355bbe713617)# EmojiLover
+# EmojiLover
 EmojiLover is a simple iOS app designed for emoji enthusiasts! This app allows users to explore and select different emojis, providing a fun way to play around with their favorite icons. It serves as a great starting point for those new to iOS app development, showcasing fundamental concepts and UI components.
 
 ## Features
