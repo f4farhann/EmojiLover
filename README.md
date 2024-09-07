@@ -1,4 +1,4 @@
-# EmojiLover
+![Untitled](https://github.com/user-attachments/assets/4e502d8f-703f-479e-871e-355bbe713617)# EmojiLover
 EmojiLover is a simple iOS app designed for emoji enthusiasts! This app allows users to explore and select different emojis, providing a fun way to play around with their favorite icons. It serves as a great starting point for those new to iOS app development, showcasing fundamental concepts and UI components.
 
 ## Features
@@ -12,15 +12,19 @@ Customizable Navigation Title: Demonstrates the use of navigationTitle for bette
 Swift<br>
 SwiftUI<br>
 
+## Screenshots
+![Untitled](https://github.com/user-attachments/assets/7e574023-44e0-48d3-a4fa-d1148f4e51f2)
+
+
 ## Getting Started
 ### Prerequisites<br>
 Xcode 12.0 or later<br>
 iOS 14.0 or later<br>
 
 ### Installation
-1. Clone the repository: git clone https://github.com/yourusername/emojilover.git<br>
-2. Open the project in Xcode.<br>
-3. Build and run the project on a simulator or a physical device.<br>
+step 1. Clone the repository: git clone https://github.com/yourusername/emojilover.git<br>
+step 2. Open the project in Xcode.<br>
+step 3. Build and run the project on a simulator or a physical device.<br>
 
 ## Usage
 Launch the app and start exploring different emojis.<br>
